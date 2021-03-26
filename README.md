@@ -2,29 +2,34 @@
 # Tên đề tài: Ứng dụng giám sát trẻ em dưới 5 tuổi
 
 ## Nhóm thực hiện:
+**PM:** Trần Quốc Nam - 18110323
+**Dev:**
+    - 
+    - 
+    - 
 
 ## Danh sách các yêu cầu của đề tài:
-1. đăng nhập/ đăng ký
+1. Đăng nhập/ đăng ký
 
-2. thiết bị quản lý và bật tắt chế độ quản lý (cần đăng nhập)
-    - thiết bị quản lý (có thể quản lý nhiều thiết bị)
-        - quản lý thiết bị từ xa (Quản lý một đt khác)
-        - quản lý trên thiết bị hiện tại (quản lý đt thoại này)
-    - bật tắt chế độ quản lý trên từng thiết bị
+2. Thiết bị quản lý và bật tắt chế độ quản lý
+    - Thiết bị quản lý (có thể quản lý nhiều thiết bị)
+        - Quản lý thiết bị từ xa (Quản lý một thiết bị khác)
+        - Quản lý trên thiết bị hiện tại (Quản lý thiết bị này)
+    - Bật tắt chế độ quản lý trên từng thiết bị
 
-3. quản lý chung
-    - quản lý về thời gian sử dụng thiết bị
-    - lưu lại lịch sử sử dụng thiết bị
-    - khóa điện thoại
+3. Quản lý chung
+    - Quản lý về thời gian sử dụng thiết bị
+    - Lưu lại lịch sử sử dụng thiết bị
+    - Khóa điện thoại
 
-4. quản lý ứng dụng
-    - quản lý thời gian sử dụng ứng dụng
-    - gỡ cài đặt và thêm ứng dụng vào các ứng dụng cấm
-    - theo dõi thời gian sử dụng ứng dụng
+4. Quản lý ứng dụng
+    - Quản lý thời gian sử dụng ứng dụng
+    - Gỡ cài đặt và thêm ứng dụng vào các ứng dụng cấm
+    - Theo dõi thời gian sử dụng ứng dụng
 
-5. quản lý truy cập web
-    - bộ lọc web (có thể tự thêm vào danh sách web bị chặn hoặc dùng các mẫu có sẳn)
-    - tìm kiếm an toàn (lọc các kết quả tìm kiếm phù hợp để hiển thị)
-    - theo dõi các trang web đã truy cập
+5. Quản lý truy cập web
+    - Bộ lọc web
+    - Tìm kiếm an toàn (lọc các kết quả tìm kiếm phù hợp để hiển thị)
+    - Theo dõi các trang web đã truy cập
 
 ## Hướng dẫn sử dụng:
