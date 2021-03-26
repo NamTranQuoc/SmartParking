@@ -2,8 +2,8 @@
 # Tên đề tài: Ứng dụng giám sát trẻ em dưới 5 tuổi
 
 ## Nhóm thực hiện:
-**PM:** Trần Quốc Nam - 18110323
-**Dev:**
+- **PM:** Trần Quốc Nam - 18110323
+- **Dev:**
     - 
     - 
     - 
