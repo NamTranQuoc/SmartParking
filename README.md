@@ -2,11 +2,11 @@
 # Tên đề tài: Ứng dụng giám sát trẻ em dưới 5 tuổi
 
 ## Nhóm thực hiện:
-+ **PM:** Trần Quốc Nam - 18110323
-+ **Dev:**
-    1. Nguyễn Thị Như Quỳnh - 18110189
-    2. Nguyễn Cước Thiên - 18110204
-    3. Tu Ngọc Yến Vy - 18110243
+- **PM:** Trần Quốc Nam - 18110323
+- **Dev:**
+    - Nguyễn Thị Như Quỳnh - 18110189
+    - Nguyễn Cước Thiên - 18110204
+    - Tu Ngọc Yến Vy - 18110243
 
 ## Danh sách các yêu cầu của đề tài:
 1. Đăng nhập/ đăng ký
